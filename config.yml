@@ -1,0 +1,15 @@
+# This is the configuration file for CommandBlock made by Axuby!
+# If you have any problems / errors with this plugin, Please contact me on Spigot or MC-Market for trobuleshooting errors.
+# Thanks for using the plugin! ~ Axuby
+
+
+deny_message: '&cYou are not permitted to use this command.'
+allow_permission: 'commandblock.run'
+blocked_commands:
+- '/?'
+- '/pl'
+- '/plugins'
+- '/ver'
+- '/version'
+- '/bukkit:'
+- '/essentials:'

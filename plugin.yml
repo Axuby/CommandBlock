@@ -1,0 +1,4 @@
+name: CommandBlock
+description: CommandBlocker for an Minecraft server made by Axuby.
+version: 1.0.0
+main: me.axuby.commandblock.Main
